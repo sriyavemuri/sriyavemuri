@@ -8,21 +8,21 @@
 
 </div>
 <p>
-  Currently, I am working on obtaining my AWS Certification and compiling all my projects into a nice, easy-to-read portfolio.
+  Currently, I am working on a data analysis of early SpongeBob seasons & compiling all my projects into a nice, easy-to-read portfolio.
 </p>
 <details>
   <summary>More about my interests</summary>
 <br />
 In my free time, I enjoy watching sports, playing video games, reading, listening to music, keeping up with whatever Apple is working on, and learning about modes of transportation. Some things I learned about recently:
   <ul>
-    <li>The Airbus A380-800</li>
-    <li>Electric car battery types</li>
+    <li>Gauss vs Euler debate as the greatest mathematician amongst the mathematics community (personally, I am Team Gauss)</li>
+    <li>The Airbus A3XX project (which gave us the modern day Airbus A380-800)</li>
     <li>The U.S. Interstate Highway System naming convention</li>
   </ul>
 </details>
 
 <details>
-  <summary>More about my GitHub stats</summary>
+  <summary>More about my GitHub stats (if you are interested in that sort of thing)</summary>
 <br />
   <div align="center">
     
